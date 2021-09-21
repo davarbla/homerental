@@ -218,12 +218,12 @@ class SearchScreen extends StatelessWidget {
     final List<RentalModel> latests = x.itemHome.value.latests!;
     return DropdownSearch<RentalModel>(
       label: "Name",
-      itemAsString: (RentalModel u) => u.title!,
-      onFind: (String filter) async {
+      itemAsString: (RentalModel? u) => u!.title!,
+      onFind: (String? filter) async {
         var models = latests.where((RentalModel element) {
           return element.title!
               .toLowerCase()
-              .contains(filter.trim().toLowerCase());
+              .contains(filter!.trim().toLowerCase());
         }).toList();
         return models;
       },
