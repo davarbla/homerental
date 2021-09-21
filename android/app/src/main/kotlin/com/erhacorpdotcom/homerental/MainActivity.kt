@@ -1,4 +1,4 @@
-package com.erhacorpdotcom.homerental
+package com.davarbla.fboys
 
 import android.os.Bundle
 import io.flutter.embedding.android.FlutterActivity
@@ -18,7 +18,7 @@ class MainActivity: FlutterActivity() {
 
         val binaryMessenger = flutterEngine.dartExecutor.binaryMessenger
 
-        MethodChannel(binaryMessenger, "com.erhacorpdotcom.homerental/app_retain").apply {
+        MethodChannel(binaryMessenger, "com.davarbla.fboys/app_retain").apply {
             setMethodCallHandler { method, result ->
                 if (method.method == "sendToBackground") {
                     moveTaskToBack(true)

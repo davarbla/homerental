@@ -1,49 +1,41 @@
 {
   "project_info": {
-    "project_number": "95956413617",
-    "project_id": "homerental-6e426",
-    "storage_bucket": "homerental-6e426.appspot.com"
+    "project_number": "399498700881",
+    "project_id": "home-rental-56974",
+    "storage_bucket": "home-rental-56974.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:95956413617:android:21d1f2f50e7d6266ff0690",
+        "mobilesdk_app_id": "1:399498700881:android:bc255cde493cf537b53070",
         "android_client_info": {
-          "package_name": "com.erhacorpdotcom.homerental"
+          "package_name": "com.davarbla.fboys"
         }
       },
       "oauth_client": [
         {
-          "client_id": "95956413617-4i4a0q0d0s2jclstqs5t8s72jghk79g1.apps.googleusercontent.com",
+          "client_id": "399498700881-40dv83ua70pd90oi9e6mnv2hss08ssae.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.erhacorpdotcom.homerental",
-            "certificate_hash": "5732637386c75587cc0f4846e9bb279c7f40ec6e"
+            "package_name": "com.davarbla.fboys",
+            "certificate_hash": "268ac553e343790472f5df3e9985b9af3729a93c"
           }
         },
         {
-          "client_id": "95956413617-7gv4817ldtkm4cicerf26pce9gk2j6vg.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.erhacorpdotcom.homerental",
-            "certificate_hash": "275fc50753e0a98c6dae5079a2f5c4e872296f72"
-          }
-        },
-        {
-          "client_id": "95956413617-ed1te9g6iqpq1r2fpnfjnel0ed4uhnsd.apps.googleusercontent.com",
+          "client_id": "399498700881-nputr42d4vpeq5ortgeo3hi8u0a76lb6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBunZO9QCq7vw5QIGKLZBq0KLj4WGnBCnw"
+          "current_key": "AIzaSyAUz_g7riPh_gNlBiGxkKhmI2R3jWOZ67Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "95956413617-ed1te9g6iqpq1r2fpnfjnel0ed4uhnsd.apps.googleusercontent.com",
+              "client_id": "399498700881-nputr42d4vpeq5ortgeo3hi8u0a76lb6.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
