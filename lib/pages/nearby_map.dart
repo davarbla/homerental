@@ -198,7 +198,7 @@ class NearbyMap extends StatelessWidget {
                   ),
                 ),
               ),
-              showSelectedItem: true,
+              showSelectedItems: true,
               items: items,
               //label: "Menu mode *",
               showClearButton: true,
