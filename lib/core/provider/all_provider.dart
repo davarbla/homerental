@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 
 class AllProvider extends GetConnect {
-  static String urlBase = "https://www.fboys.app/";
+  static String urlBase = "https://homerental.fboys.app/";
   static String tokenAPI = 'aG9tZXJlbnRhbDpiMXNtMWxsNGg=';
 
   Future<Response>? pushResponse(final String path, final String encoded) =>
