@@ -72,5 +72,24 @@
 	<false/>
 	<key>io.flutter.embedded_views_preview</key>
 	<true/>
+
+		<key>CFBundleURLTypes</key>
+    	<array>
+    		<dict>
+    			<key>CFBundleTypeRole</key>
+    			<string>Editor</string>
+    			<key>CFBundleURLSchemes</key>
+    			<array>
+    				<!-- DEV-->
+    				<!--<string>com.googleusercontent.apps.414061832200-pkjqo10va2en24dla6ctoi2c1gu1fbcd</string> -->
+    				<!-- PROD-->
+    					<string>com.googleusercontent.apps.399498700881-7o3e5ogpstggqhoooc1nbfn6tni5482q</string>
+    			</array>
+    				<key>GADApplicationIdentifier</key>
+                	<string>ca-app-pub-8959647385026215~5205320210</string>
+
+    		</dict>
+    	</array>
+
 </dict>
 </plist>
