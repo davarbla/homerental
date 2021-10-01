@@ -51,7 +51,7 @@ dependencies:
   modal_bottom_sheet:
   syncfusion_flutter_datepicker:  
 
-  flutter_credit_card: 
+  flutter_credit_card: 2.0.0
   google_maps_flutter:  
 
   image_cropper:
