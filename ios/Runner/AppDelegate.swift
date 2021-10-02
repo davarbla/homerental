@@ -15,7 +15,7 @@ import GoogleMaps
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     
-    GMSServices.provideAPIKey("<replace with your API Map Key>")
+    GMSServices.provideAPIKey("AIzaSyBvCIchuUJXXQ_6b5AdfJzibQ3Z_oVb8Kg")
     
     // Other intialization code…
     UIApplication.shared.setMinimumBackgroundFetchInterval(TimeInterval(60*10))
