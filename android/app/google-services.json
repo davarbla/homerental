@@ -37,6 +37,13 @@
             {
               "client_id": "399498700881-nputr42d4vpeq5ortgeo3hi8u0a76lb6.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "399498700881-7o3e5ogpstggqhoooc1nbfn6tni5482q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.davarbla.fboys"
+              }
             }
           ]
         }
