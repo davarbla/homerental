@@ -1,6 +1,5 @@
 # homerental
-
-A new Flutter project.
+Home Rental Erhacorp configured
 
 ## Getting Started
 
