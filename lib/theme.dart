@@ -13,12 +13,12 @@ import 'package:url_launcher/url_launcher.dart';
 
 class MyTheme {
   static const IS_DEBUG = kDebugMode;
-  static const String appName = "HomeRental";
-  static const String appVersion = "v. 0.9.4";
+  static const String appName = "FBHomeRental";
+  static const String appVersion = "v. 1.0.3";
 
   static String fcmTopicName = "homerentaltopic";
   static String serverKeyFCM =
-      'AAAAFldyrLE:APA91bG3goVYUIx5hJaepqveT4uWj6FhNG47mNaPqaQfcrmY2Uh3EnjY8KuL2PUNt88FB3WaX7r_fZnESu4v2cw44zGtgTgB7kjIxX4vDLVzKirjiV0mFZC-t8Arc2B2ivFK0nnMXnhx';
+      'AAAAXQP6aFE:APA91bEIt16dTSaLSN024QUxm7CtTH9_JYglYN7n0BeOkcNUzmhe1MB4MkmXZbb4G0xsb9ssJGDt-T992vjtVf7ab5F0uGrS7k_FLObQnL93BxA5UT-V22N980yFHfUsDq62svxJam8d';
 
   static const String webSite = "https://homerental.hobbbies.id/";
   static String urlTermService = "https://homerental.hobbbies.id/";
