@@ -17,8 +17,7 @@ class MyTheme {
   static const String appVersion = "v. 1.0.3";
 
   static String fcmTopicName = "homerentaltopic";
-  static String serverKeyFCM =
-      'AAAAXQP6aFE:APA91bEIt16dTSaLSN024QUxm7CtTH9_JYglYN7n0BeOkcNUzmhe1MB4MkmXZbb4G0xsb9ssJGDt-T992vjtVf7ab5F0uGrS7k_FLObQnL93BxA5UT-V22N980yFHfUsDq62svxJam8d';
+  static String serverKeyFCM = 'AAAAXQP6aFE:APA91bFwdARD3LVQ7qa1qEg4icatEErrZjuDNlrdoxjtMj1zW24VXUQjiwQu_zdrlAdDVpHhK4gJjRbfmN3umFoCO9Xl4pZMPYT1q3S81j_Z9tsSjKVGFAOlg-_LRuS5ycR4eMuRzw0q';
 
   static const String webSite = "https://homerental.hobbbies.id/";
   static String urlTermService = "https://homerental.hobbbies.id/";
