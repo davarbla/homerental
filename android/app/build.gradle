@@ -13,7 +13,7 @@ if (flutterRoot == null) {
 
 def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
 if (flutterVersionCode == null) {
-    flutterVersionCode = '9'
+    flutterVersionCode = '10'
 }
 
 def flutterVersionName = localProperties.getProperty('flutter.versionName')
@@ -40,7 +40,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.davarbla.fboys"
+        applicationId "com.davarbla.fboys2"
         minSdkVersion 20
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()
@@ -50,10 +50,10 @@ android {
 
     signingConfigs {
         release {
-            storeFile file('keydeveloper2021.key')
-            storePassword '654321'
-            keyAlias 'erhacorpdotcom'
-            keyPassword '654321'
+            storeFile file('release.keystore.jks')
+            storePassword '75david75'
+            keyAlias 'keyhomerentalfboys'
+            keyPassword '75david75'
         }
     }
 
@@ -85,6 +85,6 @@ flutter {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-    implementation platform('com.google.firebase:firebase-bom:28.1.0')
-    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation platform('com.google.firebase:firebase-bom:28.4.0')
+
 }
