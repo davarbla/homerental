@@ -22,6 +22,82 @@
           }
         },
         {
+          "client_id": "399498700881-5h6e86cp3bt20bgg0uu486ds94ol9j2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davarbla.fboys",
+            "certificate_hash": "dce1f7bd065900b75cc1372fc915c22901de365b"
+          }
+        },
+        {
+          "client_id": "399498700881-5v12snbgpk8vc09k91mq01dbqfdfrs7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davarbla.fboys",
+            "certificate_hash": "98329f2394d0ca8ac492c1e2e4f181907307510f"
+          }
+        },
+        {
+          "client_id": "399498700881-7ebjtvu6kggq3f50oui670t1mqjtu5sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davarbla.fboys",
+            "certificate_hash": "275fc50753e0a98c6dae5079a2f5c4e872296f72"
+          }
+        },
+        {
+          "client_id": "399498700881-tro34ist5amssq1190flb4boq4n2j1dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davarbla.fboys",
+            "certificate_hash": "4f7f1a3d61486c4d5694aec7fe5ff4c19c78904d"
+          }
+        },
+        {
+          "client_id": "399498700881-nputr42d4vpeq5ortgeo3hi8u0a76lb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz_g7riPh_gNlBiGxkKhmI2R3jWOZ67Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399498700881-nputr42d4vpeq5ortgeo3hi8u0a76lb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "399498700881-7o3e5ogpstggqhoooc1nbfn6tni5482q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.davarbla.fboys"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399498700881:android:e3e3c2f9e2f20e57b53070",
+        "android_client_info": {
+          "package_name": "com.davarbla.fboys2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399498700881-c6ktret808vi5ohqsdrlpdjd5c5k7rcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davarbla.fboys2",
+            "certificate_hash": "4f7f1a3d61486c4d5694aec7fe5ff4c19c78904d"
+          }
+        },
+        {
           "client_id": "399498700881-nputr42d4vpeq5ortgeo3hi8u0a76lb6.apps.googleusercontent.com",
           "client_type": 3
         }
