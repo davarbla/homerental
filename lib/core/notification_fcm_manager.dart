@@ -58,7 +58,7 @@ class NotificationFCMManager {
       channel = AndroidNotificationChannel(
         idNotif, // id
         titleNotif, // title
-        descNotif, // description
+        description: descNotif, // description
         importance: Importance.high,
       );
 
@@ -175,7 +175,7 @@ class NotificationFCMManager {
           androidPlatform = AndroidNotificationDetails(
             idNotif,
             titleNotif,
-            descNotif,
+            channelDescription: descNotif,
             importance: Importance.max,
             priority: Priority.high,
             icon: iconNotif,
@@ -286,7 +286,7 @@ class NotificationFCMManager {
       AndroidNotificationDetails(
     idNotif,
     titleNotif,
-    descNotif,
+    channelDescription: descNotif,
     importance: Importance.max,
     priority: Priority.high,
     icon: iconNotif,
