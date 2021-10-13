@@ -43,7 +43,7 @@ dependencies:
   flutter_easyloading:
   url_launcher:
 
-  geolocator:
+  geolocator: 7.4.0
   geocoding:  
   like_button:
 
@@ -62,8 +62,7 @@ dependencies:
   firebase_core:
   firebase_messaging: 
   firebase_auth:  
-  flutter_local_notifications:
-
+  flutter_local_notifications: 9.0.0
   uuid:
   webview_flutter:
 
@@ -74,7 +73,7 @@ dependencies:
   
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons:
+  cupertino_icons: ^1.0.2
 
 dev_dependencies:
   flutter_test:

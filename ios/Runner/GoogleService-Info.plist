@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>399498700881-7o3e5ogpstggqhoooc1nbfn6tni5482q.apps.googleusercontent.com</string>
+	<string>399498700881-riqqsisj7vavdmueqnj4c63fjccvjkbs.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.399498700881-7o3e5ogpstggqhoooc1nbfn6tni5482q</string>
+	<string>com.googleusercontent.apps.399498700881-riqqsisj7vavdmueqnj4c63fjccvjkbs</string>
 	<key>ANDROID_CLIENT_ID</key>
 	<string>399498700881-40dv83ua70pd90oi9e6mnv2hss08ssae.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.davarbla.fboys</string>
+	<string>com.davarbla.fboys2</string>
 	<key>PROJECT_ID</key>
 	<string>home-rental-56974</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:399498700881:ios:097880e45e26e9f7b53070</string>
+	<string>1:399498700881:ios:8eae6562c3b63df8b53070</string>
 </dict>
 </plist>
