@@ -13,7 +13,7 @@ class IntroScreen extends StatelessWidget {
   final XController x = XController.to;
   IntroScreen() {
     Future.delayed(Duration(milliseconds: 2200), () {
-      x.asyncUuidToken();
+      x.asyncLatitude();
     });
   }
   final PageController controller = PageController(initialPage: 0);
