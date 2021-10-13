@@ -136,7 +136,7 @@ class MyHome extends StatelessWidget {
   }
 
   final _channel =
-      const MethodChannel('com.davarbla.fboys2/app_retain');
+      const MethodChannel('com.davarbla.fboys/app_retain');
   Future<bool> onBackPress() {
     print("onBackPress MyHome...");
     if (GetPlatform.isAndroid) {

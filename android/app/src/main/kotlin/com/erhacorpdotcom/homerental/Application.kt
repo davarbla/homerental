@@ -1,4 +1,4 @@
-package com.davarbla.fboys2
+package com.davarbla.fboys
 
 import io.flutter.app.FlutterApplication
 import io.flutter.plugin.common.PluginRegistry
