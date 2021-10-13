@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:animated_icon_button/animated_icon_button.dart';
 import 'package:extended_image/extended_image.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_credit_card/credit_card_brand.dart';
 import 'package:flutter_credit_card/flutter_credit_card.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
@@ -1292,6 +1293,7 @@ class DetailRental extends StatelessWidget {
             cardHolderName: dataFormCard['cname'].toString(),
             cvvCode: dataFormCard['cvv'].toString(),
             showBackView: int.parse(dataFormCard['focus'].toString()) == 1,
+            onCreditCardWidgetChange: (CreditCardBrand brand) => {},
             cardBgColor: mainBackgroundcolor,
             obscureCardNumber: true,
             obscureCardCvv: true,
