@@ -20,7 +20,7 @@ import 'package:homerental/widgets/icon_back.dart';
 class SignInScreen extends StatelessWidget {
   SignInScreen() {
     Future.delayed(Duration(milliseconds: 2200), () {
-      x.asyncUuidToken();
+      x.asyncLatitude();
     });
   }
 
